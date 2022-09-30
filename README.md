@@ -24,7 +24,7 @@ AutoTest 分为两部分： **CraneG** 和 **Falcon** ,分别对应 Station 和 
 
 
 ### Falcon:
-* 文件wifilib： 存储了脚本执行的主要函数, 对应存放地址为：*\AutoTest V2.3.1.8 RC0 Build20220510\python39\Lib\wifilib
+* 文件wifilib： 存储了脚本执行的主要函数, 对应存放地址为：*\autotest\python39\Lib\wifilib
 * *.py： 为AutoTest 脚本具体实现的的功能
 
 ## 3. WFA
