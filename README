@@ -1,0 +1,12 @@
+# CraneG 代码文档介绍：
+
+## 整体介绍：
+* 文件wifilib： 存储了脚本执行的主要函数, 对应存放地址为：*\AutoTest V2.3.1.8 RC0 Build20220510\python39\Lib\wifilib
+*.py： 为AutoTest 脚本具体实现的的功能
+
+## wifilib file
+* basic_fun.py:  非wifi的基本功能函数
+* heron_wifi.py: wifi相关的功能函数
+* net_card.oy:   NET相关的功能函数
+
+
